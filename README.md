@@ -16,4 +16,4 @@ e.	The time-course of the fluorescence signal will be automatically plotted and 
 3.	Demo data is included in this zip file. 
 4.	Detailed step-by-step introduction (with snapshots) on using the code is included in a separate pdf file. The expected outcome is also included. 
 
-Note: files 10000 to 10010 are examples for demenstration purpose. 
+Note: Files 10000 to 10010 are examples for demenstration purpose. Please see more details in the "Step-by-step demonstration" file. 
