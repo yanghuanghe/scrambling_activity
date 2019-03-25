@@ -15,3 +15,5 @@ d.	Manually draw the outline of a cell of interest based on the fluorescence sig
 e.	The time-course of the fluorescence signal will be automatically plotted and corresponding t1/2 value will be shown in a separate window. 
 3.	Demo data is included in this zip file. 
 4.	Detailed step-by-step introduction (with snapshots) on using the code is included in a separate pdf file. The expected outcome is also included. 
+
+Note: files 10000 to 10010 are examples for demenstration purpose. 
